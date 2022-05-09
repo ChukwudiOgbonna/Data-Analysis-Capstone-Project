@@ -2,7 +2,7 @@
 This project is from the Google Data Analytics course, the aim to to find insights and convert all non members to subscribe for our services
 KEY FINDINGS
 1. Causal members drive for longer on average than Members
-2. Both Casual and Mmembers drive longer on weekdays
+2. Both Casual and members drive longer on weekdays
 3. The favorite choice of bike for casuals is the docked bike, while the favorite for members is the classic bike
 
 RECOMMENDATIONS(Deliverables)
